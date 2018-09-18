@@ -91,7 +91,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                         PerfilActivity::class.java))
             }
           }
-        }
+        
 
         drawer_layout.closeDrawer(GravityCompat.START)
         return true
