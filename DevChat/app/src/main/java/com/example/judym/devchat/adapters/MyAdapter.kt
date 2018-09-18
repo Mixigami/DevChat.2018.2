@@ -40,6 +40,8 @@ class MyAdapter constructor (val context:Context,
             holder.itemView.tvProject.text = chat.title
             holder.itemView.tvDesc.text = chat.descricao
 
+            //Picasso.get().load("http://i.imgur.com/DvpvklR.png").into(holder.itemView.ivChatBackground);
+
             holder.itemView.setOnClickListener{clickListener(chats[position])}
         }
     }

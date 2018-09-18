@@ -11,4 +11,9 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+    <string name="tv_perfil">Perfil</string>
+    <string name="tv_nome">Nome:</string>
+    <string name="tv_profissao">Profissão:</string>
+    <string name="tv_nomeImport">XXXXXXXXXXX<string/>
+    <string name="tv_profissaoImport">XXXXXXXXXXXX<string/>
 </resources>
